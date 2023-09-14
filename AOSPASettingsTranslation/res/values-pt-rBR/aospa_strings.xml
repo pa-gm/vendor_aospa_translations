@@ -86,7 +86,7 @@
     <string name="color_mode_balance_green">Nível de verde</string>
     <string name="color_mode_balance_blue">Nível de azul</string>
     <string name="keywords_color_balance">cor, equilíbrio de cores, correção de cores, vermelho, verde, azul, LiveDisplay</string>
-    <string name="dc_dimming_title">DC Dimming</string>
+    <string name="dc_dimming_title">Modo anti cintilação</string>
     <string name="dc_dimming_info">Reduz a fadiga ocular em condições de pouca luz minimizando a cintilação da tela. Pode afetar a qualidade da imagem e cores, também pode gerar maior consumo de energia.</string>
     <string name="dc_dimming_main_switch_title">Usar DC Dimming</string>
     <string name="keywords_display_dc_dimming">dc dimming, anti flicker, proteção para os olhos</string>
@@ -103,4 +103,20 @@
     <string name="notification_vibration_pattern_title">Padrão de vibração da notificação</string>
     <string name="ring_vibration_pattern_title">Padrão de vibração do toque</string>
     <string name="pattern_default">Padrão do dispositivo</string>
+    <string name="ignore_window_secure_title">Ignorar sinalizadores de segurança</string>
+    <string name="ignore_window_secure_summary">Isso remove os limites de capturas de tela e registros de tela para todos os aplicativos. Normalmente, as aplicações especiais são substituídas por áreas pretas nos registros. Isso pode ser conveniente em alguns casos, mas pode levar a vazamentos de privacidade. Depois de alterar essa alternância, talvez seja necessário reiniciar os aplicativos para que a alteração tenha efeito.</string>
+    <string name="game_space_title">Game Space</string>
+    <string name="game_space_summary">Melhore sua experiência de jogo</string>
+    <string name="copied_to_clipboard">Copiado para a área de transferência</string>
+    <string name="longpress_to_clipboard">Pressione e segure para copiar</string>
+    <string name="usb_default_config_title">USB</string>
+    <string name="usb_default_config_summary">Escolha o modo padrão quando conectado a um dispositivo via USB</string>
+    <string name="allow_signature_fake">Permitir falsificação de assinatura</string>
+    <string name="allow_signature_fake_summary">Permita que os aplicativos contornem os sistemas de segurança fingindo ser um aplicativo diferente.</string>
+    <string name="hide_developer_status_title">Ocultar status de desenvolvedor</string>
+    <string name="hide_developer_status_summary">Ocultar o status de desenvolvedor dos aplicativos</string>
+    <string name="volume_separate_notification_title">Toque e notificação separados</string>
+    <string name="volume_separate_notification_summary">Permitir controlar cada fluxo individualmente</string>
+    <string name="accessibility_text_reading_options_summary">Personalizar tamanho de exibição, fonte &amp; texto</string>
+    <string name="build_date">Data da compilação</string>
 </resources>

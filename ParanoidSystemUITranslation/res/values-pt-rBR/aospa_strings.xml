@@ -39,4 +39,6 @@
     <string name="turn_on_bluetooth">Bluetooth</string>
     <string name="bluetooth_is_off">Bluetooth desligado</string>
     <string name="tap_a_device_to_connect">Toque em um dispositivo para se conectar/desconectar</string>
+    <string name="refresh_rate_tile_label">Taxa de atualização</string>
+    <string name="auto_mode_label">Dinâmica</string>
 </resources>
