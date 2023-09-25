@@ -119,4 +119,7 @@
     <string name="volume_separate_notification_summary">Permitir controlar cada fluxo individualmente</string>
     <string name="accessibility_text_reading_options_summary">Personalizar tamanho de exibição, fonte &amp; texto</string>
     <string name="build_date">Data da compilação</string>
+    <string name="lockscreen_media_art_title">Exibir capa de mídia na tela de bloqueio</string>
+    <string name="global_actions_advanced_reboot_title">Reinicialização avançada</string>
+    <string name="global_actions_advanced_reboot_summary">Mostrar opções avançadas de reinicialização no menu de energia</string>
 </resources>
