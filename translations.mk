@@ -14,6 +14,7 @@
 
 # Translation Overlays
 PRODUCT_PACKAGES += \
+    AOSPAApertureTranslation \
     AOSPADeviceSettingsTranslation \
     AOSPAFrameworksTranslation \
     AOSPASettingsTranslation \
