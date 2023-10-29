@@ -135,7 +135,7 @@
     <string name="heads_up_title">Heads up</string>
     <string name="heads_up_summary">Mostrar notificações selecionadas como um banner na parte superior da tela</string>
     <string name="heads_up_off">Heads up estão desativados globalmente</string>
-    <string name="network_traffic_title">Network traffic indicator</string>
+    <string name="network_traffic_title">Indicador de tráfego de rede</string>
     <string name="network_traffic_summary">Mostrar velocidade da Internet em tempo real na barra de status</string>
     <string name="network_traffic_switch_title">Use indicador de tráfego de rede</string>
     <string name="network_traffic_options_title">Opções</string>
